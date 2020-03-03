@@ -1,6 +1,6 @@
 # AIO API QuickStarter
 
-#### Simplified HTTP REST Framework based on AIO HTTP
+#### Simplified HTTP REST Framework based on AIOHTTP
 
 #### Optimized for running serverless
 
