@@ -1,4 +1,4 @@
-# AIO API QuickStarter
+# API QuickStarter
 
 #### Simplified HTTP REST Framework based on AIOHTTP
 
